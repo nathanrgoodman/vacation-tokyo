@@ -7,3 +7,4 @@ img {display: block;
   margin-right: auto;
   width: 50%;}
   .col-md-8 {font-size: large;}
+.well img{margin-left: 25%; margin-right: 25%;}
